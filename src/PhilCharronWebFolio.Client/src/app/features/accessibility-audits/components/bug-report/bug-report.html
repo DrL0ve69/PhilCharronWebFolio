@@ -1,0 +1,23 @@
+<main>
+  <h1>Signaler un bogue</h1>
+  <form [formGroup]="bugForm" (ngSubmit)="onSubmit()">
+    
+    <label for="title">Titre du bogue :</label>
+    <input id="title" formControlName="title" aria-required="true">
+
+    <div class="checkbox-group">
+      <input type="checkbox" id="isAccess" formControlName="isAccessibilityIssue">
+      <label for="isAccess">Est-ce un problème d'accessibilité ?</label>
+    </div>
+
+    @if (bugForm.get('isAccessibilityIssue')?.value) {
+      <section aria-label="Détails de l'accessibilité">
+        <label for="wcag">Critères WCAG 2.2 :</label>
+        <input id="wcag" formControlName="wcagCriteria" aria-describedby="wcag-hint">
+        <small id="wcag-hint">Ex: 1.4.3 Contraste minimum</small>
+      </section>
+    }
+
+    <button type="submit" aria-label="Soumettre le rapport de bogue">Soumettre</button>
+  </form>
+</main>

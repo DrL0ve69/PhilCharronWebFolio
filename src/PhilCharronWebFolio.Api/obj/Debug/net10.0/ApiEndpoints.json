@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "PhilCharronWebFolio.Api.Controllers.AccessibilityAuditsController",
+    "Method": "Create",
+    "RelativePath": "api/v1/AccessibilityAudits",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PhilCharronWebFolio.Application.Accessibility.Commands.CreateAccessibilityAuditCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhilCharronWebFolio.Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/v1/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PhilCharronWebFolio.Application.Auth.Commands.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhilCharronWebFolio.Api.Controllers.AuthController",
+    "Method": "GetProfile",
+    "RelativePath": "api/v1/Auth/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhilCharronWebFolio.Api.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/v1/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PhilCharronWebFolio.Application.Auth.Commands.RegisterCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhilCharronWebFolio.Api.Controllers.BugsController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Bugs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PhilCharronWebFolio.Application.Bugs.Commands.CreateBugReportCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhilCharronWebFolio.Api.Controllers.ContactController",
+    "Method": "Send",
+    "RelativePath": "api/v1/Contact/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PhilCharronWebFolio.Application.Contact.Commands.SendContactMessageCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

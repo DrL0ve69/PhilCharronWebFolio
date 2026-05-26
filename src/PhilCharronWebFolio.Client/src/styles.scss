@@ -1,0 +1,54 @@
+@use 'sass:math';
+
+:root {
+  --primary-color: #005a9c;
+  --primary-light: #e7f1fa;
+  --secondary-color: #f4f4f4;
+  --text-color: #333;
+  --error-color: #d32f2f;
+  --success-color: #2e7d32;
+  --border-color: #ccc;
+  --focus-color: #ffbf47;
+  --white: #ffffff;
+  --black: #000000;
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 2rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #4da6ff;
+    --primary-light: #0a192f;
+    --secondary-color: #1a1a1a;
+    --text-color: #e0e0e0;
+    --border-color: #444;
+    --white: #121212;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  &:hover { text-decoration: underline; }
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+}

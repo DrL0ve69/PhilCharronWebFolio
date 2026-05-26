@@ -1,0 +1,43 @@
+<nav class="nav" aria-label="Navigation principale">
+  <div class="container">
+    <a routerLink="/" class="nav__logo">Portfolio</a>
+    <ul class="nav__list">
+      <li class="nav__item">
+        <a routerLink="/home" routerLinkActive="active" class="nav__link" i18n>Accueil</a>
+      </li>
+      <li class="nav__item">
+        <a routerLink="/accessibility-audits" routerLinkActive="active" class="nav__link" i18n>Audits</a>
+      </li>
+      <li class="nav__item">
+        <a routerLink="/experience" routerLinkActive="active" class="nav__link" i18n>Expérience</a>
+      </li>
+      <li class="nav__item">
+        <a routerLink="/contact" routerLinkActive="active" class="nav__link" i18n>Contact</a>
+      </li>
+      @if (isAuthenticated()) {
+        <li class="nav__item">
+          <a routerLink="/profile" routerLinkActive="active" class="nav__link" i18n>Profil</a>
+        </li>
+      }
+    </ul>
+
+    <div class="nav-controls">
+      <div class="control-group">
+        <button (click)="setLang('fr')" [class.active]="currentLang() === 'fr'" class="lang-btn" i18n>FR</button>
+        <button (click)="setLang('en')" [class.active]="currentLang() === 'en'" class="lang-btn" i18n>EN</button>
+      </div>
+
+      <div class="control-group theme-selector">
+        <button (click)="setTheme('light')" [class.active]="currentTheme() === 'light'" title="Light Theme">☀️</button>
+        <button (click)="setTheme('dark')" [class.active]="currentTheme() === 'dark'" title="Dark Theme">🌙</button>
+        <button (click)="setTheme('arcade')" [class.active]="currentTheme() === 'arcade'" title="Arcade Theme">🕹️</button>
+      </div>
+
+      @if (isAuthenticated()) {
+        <button (click)="logout()" class="btn-logout" i18n>Déconnexion</button>
+      } @else {
+        <a routerLink="/auth" class="nav__link" i18n>Connexion</a>
+      }
+    </div>
+  </div>
+</nav>

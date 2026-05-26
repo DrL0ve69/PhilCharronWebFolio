@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/PhilCharronWebFolio.Api/PhilCharronWebFolio.Api.csproj" />
+  <Project Path="src/PhilCharronWebFolio.Application/PhilCharronWebFolio.Application.csproj" />
+  <Project Path="src/PhilCharronWebFolio.Domain/PhilCharronWebFolio.Domain.csproj" />
+  <Project Path="src/PhilCharronWebFolio.Infrastructure/PhilCharronWebFolio.Infrastructure.csproj" />
+</Solution>

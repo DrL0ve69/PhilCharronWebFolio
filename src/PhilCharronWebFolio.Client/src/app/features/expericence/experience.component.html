@@ -1,0 +1,35 @@
+    <section aria-labelledby="experience-title">
+      <h2 id="experience-title" i18n>Expérience — CRTC</h2>
+
+      <p i18n>
+        Stagiaire en programmation et accessibilité web, 2025–2026
+        Conseil de la radiodiffusion et des télécommunications canadiennes, Gatineau
+      </p>
+
+      <!-- Stat principale -->
+      <figure aria-label="Résultat clé">
+        <strong aria-label="Conformité WCAG obtenue : 100 %">100 %</strong>
+        <figcaption i18n>Conformité WCAG obtenue sur 3 applications gouvernementales</figcaption>
+      </figure>
+
+      <!-- Cartes de projets -->
+      <ul role="list" aria-label="Projets">
+        @for (project of projects; track project.name) {
+          <li>
+            <article aria-labelledby="project-{{ project.name }}">
+              <h3 id="project-{{ project.name }}">{{ project.name }}</h3>
+              <p>{{ project.problem }}</p>
+              <ul aria-label="Outils" role="list">
+                @for (tool of project.tools; track tool) {
+                  <li>{{ tool }}</li>
+                }
+              </ul>
+              <p>{{ project.result }}</p>
+            </article>
+          </li>
+        }
+      </ul>
+
+      <!-- Frise Agile -->
+      <!-- <app-agile-timeline /> -->
+    </section>

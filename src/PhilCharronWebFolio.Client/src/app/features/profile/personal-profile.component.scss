@@ -1,0 +1,16 @@
+.profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  padding: 2rem;
+}
+
+.loading, .error {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.error {
+  color: var(--error-color, #dc3545);
+}

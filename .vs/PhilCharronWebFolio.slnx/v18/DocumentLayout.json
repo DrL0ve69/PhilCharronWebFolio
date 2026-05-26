@@ -1,0 +1,748 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\common\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\common\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\common\\messaging\\idispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\common\\messaging\\idispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\common\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\common\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\common\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\common\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\common\\messaging\\dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\common\\messaging\\dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\common\\interfaces\\iinfrastructureinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\common\\interfaces\\iinfrastructureinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\auth\\queries\\getprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\auth\\queries\\getprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\auth\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\auth\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\auth\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\auth\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\auth\\commands\\authcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\auth\\commands\\authcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|solutionrelative:src\\philcharronwebfolio.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\persistence\\interceptors\\auditableentityinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\persistence\\interceptors\\auditableentityinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|solutionrelative:src\\philcharronwebfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|solutionrelative:src\\philcharronwebfolio.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|solutionrelative:src\\philcharronwebfolio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|solutionrelative:src\\philcharronwebfolio.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|solutionrelative:src\\philcharronwebfolio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\persistence\\repositories\\contactmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\persistence\\repositories\\contactmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\bugs\\commands\\createbugreporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\bugs\\commands\\createbugreporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\bugs\\commands\\createbugreportcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\bugs\\commands\\createbugreportcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.api\\controllers\\bugscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|solutionrelative:src\\philcharronwebfolio.api\\controllers\\bugscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\persistence\\repositories\\bugreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\persistence\\repositories\\bugreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\dtos\\bugreportdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\dtos\\bugreportdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\dtos\\bugreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\dtos\\bugreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\common\\interfaces\\ibugreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\common\\interfaces\\ibugreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\persistence\\configurations\\bugreportconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\persistence\\configurations\\bugreportconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\philcharronwebfolio.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\philcharronwebfolio.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D22F7D-F48D-BFF8-9EF1-8DD74DBF7F74}|src\\PhilCharronWebFolio.Api\\PhilCharronWebFolio.Api.csproj|solutionrelative:src\\philcharronwebfolio.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\common\\interfaces\\icontactmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\common\\interfaces\\icontactmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.application\\contact\\commands\\sendcontactmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81A8DD-44D2-82BB-70A3-A6A0CF1A57FF}|src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj|solutionrelative:src\\philcharronwebfolio.application\\contact\\commands\\sendcontactmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\persistence\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\persistence\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.infrastructure\\persistence\\repositories\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFC1043-9A5A-11C3-4651-42339F52B4FE}|src\\PhilCharronWebFolio.Infrastructure\\PhilCharronWebFolio.Infrastructure.csproj|solutionrelative:src\\philcharronwebfolio.infrastructure\\persistence\\repositories\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FA6F7D-18E3-AFE1-E41B-EC454EFB53C6}|src\\PhilCharronWebFolio.Domain\\PhilCharronWebFolio.Domain.csproj|c:\\users\\phili\\projetsportfolio\\2026\\templates\\philcharronwebfolio\\src\\philcharronwebfolio.domain\\entities\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FA6F7D-18E3-AFE1-E41B-EC454EFB53C6}|src\\PhilCharronWebFolio.Domain\\PhilCharronWebFolio.Domain.csproj|solutionrelative:src\\philcharronwebfolio.domain\\entities\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:18:50.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Identity\\AppUser.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T18:52:38.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T18:51:30.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Services\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T23:30:26.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Services\\IdentityService.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Services\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Services\\IdentityService.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Services\\IdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T23:30:43.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:16:13.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:18:37.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Common\\Results\\Result.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Results\\Result.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Common\\Results\\Result.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:22:24.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Messaging\\IDispatcher.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Common\\Messaging\\IDispatcher.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Messaging\\IDispatcher.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Common\\Messaging\\IDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:50:16.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Common\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Common\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:54:30.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Common\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Common\\Messaging\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:19:24.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Messaging\\Dispatcher.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Common\\Messaging\\Dispatcher.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Messaging\\Dispatcher.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Common\\Messaging\\Dispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:49:13.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IInfrastructureInterfaces.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IInfrastructureInterfaces.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IInfrastructureInterfaces.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IInfrastructureInterfaces.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IInfrastructureInterfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:21:29.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetProfileQuery.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Auth\\Queries\\GetProfileQuery.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Auth\\Queries\\GetProfileQuery.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Auth\\Queries\\GetProfileQuery.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Auth\\Queries\\GetProfileQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:21:04.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Auth\\DTOs\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Auth\\DTOs\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Auth\\DTOs\\ProfileDto.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Auth\\DTOs\\ProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:20:53.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T23:30:51.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthCommands.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Auth\\Commands\\AuthCommands.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Auth\\Commands\\AuthCommands.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Auth\\Commands\\AuthCommands.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Auth\\Commands\\AuthCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:10:47.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Auth\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Auth\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Auth\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Auth\\DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T18:53:16.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuditableEntityInterceptor.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Interceptors\\AuditableEntityInterceptor.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Interceptors\\AuditableEntityInterceptor.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Interceptors\\AuditableEntityInterceptor.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Interceptors\\AuditableEntityInterceptor.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:42:54.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Program.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T23:31:12.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:11:11.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T21:05:32.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T21:05:38.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\appsettings.json",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T21:05:41.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateBugReportHandler.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Bugs\\Commands\\CreateBugReportHandler.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Bugs\\Commands\\CreateBugReportHandler.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Bugs\\Commands\\CreateBugReportHandler.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Bugs\\Commands\\CreateBugReportHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T20:16:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContactMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\ContactMessageRepository.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\ContactMessageRepository.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\ContactMessageRepository.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\ContactMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:51:29.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T20:17:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateBugReportCommand.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Bugs\\Commands\\CreateBugReportCommand.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Bugs\\Commands\\CreateBugReportCommand.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Bugs\\Commands\\CreateBugReportCommand.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Bugs\\Commands\\CreateBugReportCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T20:14:22.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BugsController.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Controllers\\BugsController.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Api\\Controllers\\BugsController.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Controllers\\BugsController.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Api\\Controllers\\BugsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T20:14:11.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BugReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\BugReportRepository.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\BugReportRepository.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\BugReportRepository.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\BugReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T20:11:42.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BugReportDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\DTOs\\BugReportDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\DTOs\\BugReportDtoValidator.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\DTOs\\BugReportDtoValidator.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\DTOs\\BugReportDtoValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T20:12:34.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BugReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\DTOs\\BugReportDto.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\DTOs\\BugReportDto.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\DTOs\\BugReportDto.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\DTOs\\BugReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T20:12:32.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBugReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IBugReportRepository.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IBugReportRepository.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IBugReportRepository.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IBugReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T20:11:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BugReportConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Configurations\\BugReportConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Configurations\\BugReportConfiguration.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Configurations\\BugReportConfiguration.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Configurations\\BugReportConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:58:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:47:16.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PhilCharronWebFolio.Application",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\PhilCharronWebFolio.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T18:41:08.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75c83ab3-5264-45e8-ad32-5c8a41ad477d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Api\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Api\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Api\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:55:39.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IContactMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IContactMessageRepository.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IContactMessageRepository.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IContactMessageRepository.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Common\\Interfaces\\IContactMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:52:42.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SendContactMessageCommand.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Contact\\Commands\\SendContactMessageCommand.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Application\\Contact\\Commands\\SendContactMessageCommand.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Application\\Contact\\Commands\\SendContactMessageCommand.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Application\\Contact\\Commands\\SendContactMessageCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:48:56.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\UserProfileRepository.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\UserProfileRepository.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\UserProfileRepository.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\Repositories\\UserProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T23:30:15.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T23:22:48.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Domain\\Entities\\UserProfile.cs",
+              "RelativeDocumentMoniker": "src\\PhilCharronWebFolio.Domain\\Entities\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\phili\\ProjetsPortfolio\\2026\\Templates\\PhilCharronWebFolio\\src\\PhilCharronWebFolio.Domain\\Entities\\UserProfile.cs",
+              "RelativeToolTip": "src\\PhilCharronWebFolio.Domain\\Entities\\UserProfile.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T18:52:51.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

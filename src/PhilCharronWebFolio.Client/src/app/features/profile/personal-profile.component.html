@@ -1,0 +1,9 @@
+<div class="profile-container">
+  @if (isLoading()) {
+    <div class="loading">Chargement...</div>
+  } @else if (error()) {
+    <div class="error">{{ error() }}</div>
+  } @else if (profileData) {
+    <app-profile-card [user]="profileData!" />
+  }
+</div>

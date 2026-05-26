@@ -1,0 +1,15 @@
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\bin\Debug\net10.0\PhilCharronWebFolio.Application.deps.json
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\bin\Debug\net10.0\PhilCharronWebFolio.Application.dll
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\bin\Debug\net10.0\PhilCharronWebFolio.Application.pdb
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\bin\Debug\net10.0\PhilCharronWebFolio.Domain.dll
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\bin\Debug\net10.0\PhilCharronWebFolio.Domain.pdb
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\obj\Debug\net10.0\PhilCharronWebFolio.Application.csproj.AssemblyReference.cache
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\obj\Debug\net10.0\PhilCharronWebFolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\obj\Debug\net10.0\PhilCharronWebFolio.Application.AssemblyInfoInputs.cache
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\obj\Debug\net10.0\PhilCharronWebFolio.Application.AssemblyInfo.cs
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\obj\Debug\net10.0\PhilCharronWebFolio.Application.csproj.CoreCompileInputs.cache
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\obj\Debug\net10.0\PhilChar.531A9FCC.Up2Date
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\obj\Debug\net10.0\PhilCharronWebFolio.Application.dll
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\obj\Debug\net10.0\refint\PhilCharronWebFolio.Application.dll
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\obj\Debug\net10.0\PhilCharronWebFolio.Application.pdb
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Application\obj\Debug\net10.0\ref\PhilCharronWebFolio.Application.dll

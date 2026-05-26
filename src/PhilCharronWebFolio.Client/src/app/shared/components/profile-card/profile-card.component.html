@@ -1,0 +1,10 @@
+<div class="profile-card">
+  <div class="profile-avatar">
+    {{ user().fullName.charAt(0) }}
+  </div>
+  <div class="profile-info">
+    <h2>{{ user().fullName }}</h2>
+    <p class="username">@{{ user().userName }}</p>
+    <p class="email">{{ user().email }}</p>
+  </div>
+</div>

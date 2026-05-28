@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "10.0.6",
           "Microsoft.EntityFrameworkCore.Design": "10.0.8",
+          "Microsoft.EntityFrameworkCore.InMemory": "10.0.8",
           "PhilCharronWebFolio.Application": "1.0.0",
           "PhilCharronWebFolio.Infrastructure": "1.0.0"
         },
@@ -529,6 +530,17 @@
           }
         }
       },
+      "Microsoft.EntityFrameworkCore.InMemory/10.0.8": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "10.0.8"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "assemblyVersion": "10.0.8.0",
+            "fileVersion": "10.0.826.23019"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/10.0.8": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "10.0.8"
@@ -998,6 +1010,13 @@
       "sha512": "sha512-LlUUXdfqKFk7RlGExojVP8GI6hN9O21WjpxFnp5mLeGjd9iYdwywIgK9WOLvPM2hrknrRyHR/i43FQdw/oCrOw==",
       "path": "microsoft.entityframeworkcore.design/10.0.8",
       "hashPath": "microsoft.entityframeworkcore.design.10.0.8.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/10.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C3T9khx1oiLPrS6ehoSnZptiEuTOIaX60it9SGvCkWTeF5i6+IceK6p7mtx+mkFwWB5qx+v3IhgG51iUEtLq9w==",
+      "path": "microsoft.entityframeworkcore.inmemory/10.0.8",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.10.0.8.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/10.0.8": {
       "type": "package",

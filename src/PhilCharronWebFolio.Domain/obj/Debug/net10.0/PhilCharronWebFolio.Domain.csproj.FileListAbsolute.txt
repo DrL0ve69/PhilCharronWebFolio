@@ -5,6 +5,7 @@ C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharr
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Domain\obj\Debug\net10.0\PhilCharronWebFolio.Domain.AssemblyInfoInputs.cache
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Domain\obj\Debug\net10.0\PhilCharronWebFolio.Domain.AssemblyInfo.cs
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Domain\obj\Debug\net10.0\PhilCharronWebFolio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Domain\obj\Debug\net10.0\PhilCharronWebFolio.Domain.sourcelink.json
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Domain\obj\Debug\net10.0\PhilCharronWebFolio.Domain.dll
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Domain\obj\Debug\net10.0\refint\PhilCharronWebFolio.Domain.dll
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Domain\obj\Debug\net10.0\PhilCharronWebFolio.Domain.pdb

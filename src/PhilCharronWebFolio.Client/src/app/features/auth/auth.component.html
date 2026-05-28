@@ -1,0 +1,60 @@
+    <div class="auth-container">
+      <div class="auth-card" [class.flipped]="isFlipped()">
+
+        <!-- Login Face -->
+        <div class="auth-face auth-face--front">
+          <h2>Welcome Back</h2>
+          <form [formGroup]="loginForm" (ngSubmit)="onLogin()">
+            <div class="form-group">
+              <label for="login">Email or Username</label>
+              <input id="login" formControlName="login" type="text" placeholder="Enter your credentials">
+            </div>
+            <div class="form-group">
+              <label for="password">Password</label>
+              <input id="password" formControlName="password" type="password" placeholder="********">
+            </div>
+            <button type="submit" [disabled]="loginForm.invalid" class="btn-primary">Login</button>
+          </form>
+          <p class="auth-switch">
+            Don't have an account?
+            <a href="javascript:void(0)" (click)="toggleFlip()">Register here</a>
+          </p>
+        </div>
+
+        <!-- Register Face -->
+        <div class="auth-face auth-face--back">
+          <h2>Create Account</h2>
+          <form [formGroup]="registerForm" (ngSubmit)="onRegister()">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="firstName">First Name</label>
+                <input id="firstName" formControlName="firstName" type="text">
+              </div>
+              <div class="form-group">
+                <label for="lastName">Last Name</label>
+                <input id="lastName" formControlName="lastName" type="text">
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="userName">Username</label>
+              <input id="userName" formControlName="userName" type="text">
+            </div>
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input id="email" formControlName="email" type="email">
+              <app-form-error [control]="registerForm.get('email')" />
+            </div>
+            <div class="form-group">
+              <label for="regPassword">Password</label>
+              <input id="regPassword" formControlName="password" type="password">
+            </div>
+            <button type="submit" [disabled]="registerForm.invalid" class="btn-primary">Register</button>
+          </form>
+          <p class="auth-switch">
+            Already have an account?
+            <a href="javascript:void(0)" (click)="toggleFlip()">Login here</a>
+          </p>
+        </div>
+
+      </div>
+    </div>

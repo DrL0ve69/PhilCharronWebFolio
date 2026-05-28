@@ -11,6 +11,7 @@ C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharr
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Infrastructure\obj\Debug\net10.0\PhilCharronWebFolio.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Infrastructure\obj\Debug\net10.0\PhilCharronWebFolio.Infrastructure.AssemblyInfo.cs
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Infrastructure\obj\Debug\net10.0\PhilCharronWebFolio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Infrastructure\obj\Debug\net10.0\PhilCharronWebFolio.Infrastructure.sourcelink.json
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Infrastructure\obj\Debug\net10.0\PhilChar.01279BCB.Up2Date
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Infrastructure\obj\Debug\net10.0\PhilCharronWebFolio.Infrastructure.dll
 C:\Users\phili\ProjetsPortfolio\2026\Templates\PhilCharronWebFolio\src\PhilCharronWebFolio.Infrastructure\obj\Debug\net10.0\refint\PhilCharronWebFolio.Infrastructure.dll

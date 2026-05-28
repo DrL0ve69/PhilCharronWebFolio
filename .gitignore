@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+**/node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+bin/
+obj/
+out/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Environment files (CRITICAL - contains secrets!)
+.env
+.env.local
+.env.*.local
+
+# Continue/Claude local configs (per-project)
+.continue/config.local.yaml
+.claude/settings.local.json
+
+# Database
+*.mdf
+*.ldf
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# .NET
+project.lock.json
+*.nuget.props
+*.nuget.targets
